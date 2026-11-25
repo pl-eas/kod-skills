@@ -1,0 +1,9 @@
+{
+  "name": "kod-stock-inventario",
+  "description": "Controlar existencias, reponer a tiempo y avisar faltantes. Próximamente.",
+  "version": "0.1.0",
+  "author": {
+    "name": "PL E.A.S."
+  },
+  "license": "MIT"
+}
