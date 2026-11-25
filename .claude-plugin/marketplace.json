@@ -1,0 +1,48 @@
+{
+  "name": "kod-skills",
+  "owner": {
+    "name": "PL E.A.S."
+  },
+  "plugins": [
+    {
+      "name": "kod-ventas",
+      "source": "./ventas",
+      "description": "Vender con honestidad: entender por qué el cliente quiere esto, resolver dudas y acordar el siguiente paso."
+    },
+    {
+      "name": "kod-cobranzas",
+      "source": "./cobranzas",
+      "description": "Cobrar a tiempo sin romper la relación: recordatorios, acuerdos de pago y seguimiento."
+    },
+    {
+      "name": "kod-rrhh",
+      "source": "./rrhh",
+      "description": "Personas y equipo: búsquedas, entrevistas, bienvenida, conversaciones difíciles y comunicados."
+    },
+    {
+      "name": "kod-soporte",
+      "source": "./soporte",
+      "description": "Atender clientes que ya compraron: entender el problema, resolver o derivar, y cerrar el caso."
+    },
+    {
+      "name": "kod-compras",
+      "source": "./compras",
+      "description": "Pedir cotizaciones, comparar proveedores y negociar condiciones."
+    },
+    {
+      "name": "kod-stock-inventario",
+      "source": "./stock-inventario",
+      "description": "Controlar existencias, reponer a tiempo y avisar faltantes. Próximamente."
+    },
+    {
+      "name": "kod-conflictos",
+      "source": "./conflictos",
+      "description": "Reclamos, desacuerdos y clientes molestos. Próximamente."
+    },
+    {
+      "name": "kod-legales",
+      "source": "./legales",
+      "description": "Contratos y temas legales, siempre con revisión de un profesional. Próximamente."
+    }
+  ]
+}

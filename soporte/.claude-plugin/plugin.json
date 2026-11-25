@@ -1,0 +1,9 @@
+{
+  "name": "kod-soporte",
+  "description": "Atender clientes que ya compraron: entender el problema, resolver o derivar, y cerrar el caso.",
+  "version": "0.1.0",
+  "author": {
+    "name": "PL E.A.S."
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "kod-compras",
+  "description": "Pedir cotizaciones, comparar proveedores y negociar condiciones.",
+  "version": "0.1.0",
+  "author": {
+    "name": "PL E.A.S."
+  },
+  "license": "MIT"
+}
