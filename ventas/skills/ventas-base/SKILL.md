@@ -20,7 +20,7 @@ Guía base de ventas. Úsala cuando ayudes a vender un servicio o producto: una 
 - Inventar urgencia ("solo hoy", "quedan dos lugares") si no es verdad.
 - Prometer plazos, resultados o casos de otros clientes que no estén en los datos.
 
-Fichas de este pack: `entender-el-motivo`, `es-caro`.
+Fichas de este pack: `entender-el-motivo`, `cuanto-cuesta`, `es-caro`, `descuento-por-volumen`, y para el equipo `fijar-el-precio`.
 
 ## Reglas que siempre valen
 

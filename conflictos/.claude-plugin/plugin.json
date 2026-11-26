@@ -1,7 +1,7 @@
 {
   "name": "kod-conflictos",
-  "description": "Reclamos, desacuerdos y clientes molestos. Próximamente.",
-  "version": "0.1.0",
+  "description": "Reclamos, desacuerdos, clientes molestos y pedidos fuera de lo acordado.",
+  "version": "0.2.0",
   "author": {
     "name": "PL E.A.S."
   },
