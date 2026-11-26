@@ -14,7 +14,7 @@ Las hace [KOD](https://usekod.com), y sirven igual aunque no uses KOD.
 | [Soporte y servicios](soporte/) | Atender clientes que ya compraron: entender el problema, resolver o derivar, y cerrar el caso. |
 | [Compras y proveedores](compras/) | Pedir cotizaciones, comparar proveedores y negociar condiciones. |
 | [Stock e inventario](stock-inventario/) | Controlar existencias, reponer a tiempo y avisar faltantes. Próximamente. |
-| [Resolución de conflictos](conflictos/) | Reclamos, desacuerdos y clientes molestos. Próximamente. |
+| [Resolución de conflictos](conflictos/) | Reclamos, desacuerdos, clientes molestos y pedidos fuera de lo acordado. |
 | [Legales](legales/) | Contratos y temas legales, siempre con revisión de un profesional. Próximamente. |
 
 Cada área trae una **guía base** (cómo trabajar bien en esa área aunque no haya una ficha puntual) y sus **fichas**, una por situación concreta.

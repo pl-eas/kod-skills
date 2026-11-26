@@ -8,4 +8,4 @@ Cobrar a tiempo sin romper la relación: recordatorios, acuerdos de pago y segui
 
 ## Fichas
 
-Todavía no hay fichas puntuales. La guía base ya sirve para trabajar mejor en esta área.
+- `entregar-contra-pago`: Entregar los archivos o el trabajo final cuando el pago acordado está hecho, y avisarlo sin tensión. Úsala al cerrar un trabajo con saldo pendiente.

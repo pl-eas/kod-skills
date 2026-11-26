@@ -20,6 +20,7 @@ Guía base de cobranzas. Úsala para recordar pagos, responder a un cliente atra
 - Amenazar, avergonzar ni escribir a otras personas sobre la deuda.
 - Ofrecer quitas, intereses distintos o planes de pago que el negocio no aprobó.
 - Insistir fuera de horario o con varios mensajes seguidos.
+Fichas de este pack: `entregar-contra-pago`.
 
 ## Reglas que siempre valen
 

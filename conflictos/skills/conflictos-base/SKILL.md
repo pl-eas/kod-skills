@@ -1,11 +1,11 @@
 ---
 name: conflictos-base
-description: Guía base de resolución de conflictos. Reclamos, desacuerdos y clientes molestos. Próximamente. Úsala siempre que trabajes en resolución de conflictos, aunque no haya una ficha puntual.
+description: Guía base de resolución de conflictos. Reclamos, desacuerdos, clientes molestos y pedidos fuera de lo acordado. Úsala siempre que trabajes en resolución de conflictos, aunque no haya una ficha puntual.
 ---
 
 # Resolución de conflictos: guía base
 
-Guía base para resolver conflictos y reclamos. Todavía no hay fichas puntuales.
+Guía base para resolver conflictos y reclamos.
 
 ## Cómo trabajar
 
@@ -19,6 +19,7 @@ Guía base para resolver conflictos y reclamos. Todavía no hay fichas puntuales
 - Responder con ironía, culpas o en el mismo tono de enojo.
 - Ofrecer compensaciones que el negocio no aprobó.
 - Seguir por escrito algo que ya escaló: propone una llamada con una persona del equipo.
+Fichas de este pack: `fuera-de-alcance`.
 
 ## Reglas que siempre valen
 
